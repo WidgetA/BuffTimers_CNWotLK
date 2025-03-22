@@ -1,6 +1,9 @@
 # BuffTimers
 
-## [v1.11.13](https://github.com/sandervspl/BuffTimers/tree/v1.11.13) (2024-05-01)
-[Full Changelog](https://github.com/sandervspl/BuffTimers/compare/v1.11.12...v1.11.13) [Previous Releases](https://github.com/sandervspl/BuffTimers/releases)
+## [v2.0.3](https://github.com/sandervspl/BuffTimers/tree/v2.0.3) (2025-03-07)
+[Full Changelog](https://github.com/sandervspl/BuffTimers/compare/v2.0.2...v2.0.3) [Previous Releases](https://github.com/sandervspl/BuffTimers/releases)
 
-- Update TOC version  
+- Corrected RU locale, now it looks better. And added RU Category in the .toc file (#26)  
+    * Update BuffTimers.toc  
+    * Update Locales.lua  
+    * Update BuffTimers.toc  
